@@ -56,3 +56,4 @@ C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_Mediator\Casgem_Mediato
 C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_Mediator\Casgem_Mediator\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_Mediator\Casgem_Mediator\obj\Debug\net5.0\Razor\Views\Default\Index.cshtml.g.cs
 C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_Mediator\Casgem_Mediator\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\bugra\Desktop\1- Dosya\1-Projeler\casgem\Casgem_Mediator\Casgem_Mediator\obj\Debug\net5.0\Razor\Views\Default\AddProduct.cshtml.g.cs
