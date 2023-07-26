@@ -1,0 +1,52 @@
+﻿@model Casgem_Mediator.MeditorPattern.Results.GetProductUpdateByIdQueryResult
+@{
+    Layout = null;
+}
+
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+
+<div class="container">
+
+    <br />
+    <br />
+
+    <form method="post">
+        <input type="hidden" placeholder="Ürün Adı" class="form-control" asp-for="ProductId" />
+
+
+        <div class="mb-3">
+            <label>Ürün Adı</label>
+            <input type="text" placeholder="Ürün Adı" class="form-control" asp-for="ProductName" />
+        </div>
+
+        <div class="mb-3">
+            <label>Ürün Marka</label>
+            <input type="text" placeholder="Ürün Adı" class="form-control" asp-for="ProductBrand" />
+        </div>
+
+        <div class="mb-3">
+            <label>Stok</label>
+            <input type="text" placeholder="Ürün Adı" class="form-control" asp-for="ProductStock" />
+        </div>
+
+        <div class="mb-3">
+            <label>Ürün Ücret</label>
+            <input type="text" placeholder="Ürün Adı" class="form-control" asp-for="ProductPrice" />
+        </div>
+
+        <div class="mb-3">
+            <label>Ürün Kategori</label>
+            <input type="text" placeholder="Ürün Adı" class="form-control" asp-for="ProductCategory" />
+        </div>
+
+        <div class="mb-3">
+            <a class="btn btn-danger" href="/Default/Index/">İptal</a>
+            <input type="submit" placeholder="Ürün Adı" class="btn btn-success" value="Kaydet" />
+        </div>
+
+
+
+    </form>
+</div>
